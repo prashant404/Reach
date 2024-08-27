@@ -8,7 +8,7 @@ function TopBar() {
 
       <div className="pr-10 flex items-center">
         <ThemeToggle />
-        Tim's Workspace <MdOutlineKeyboardArrowDown className="text-3xl ml-3" />
+        Shambhavi's Workspace <MdOutlineKeyboardArrowDown className="text-3xl ml-3" />
       </div>
     </div>
   );
